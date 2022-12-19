@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+table,
+        th,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 6px;
+            text-align: center;
+        }
+
+
+
+        .initialcircle{
+        border: 2px solid black;
+        border-radius: 50%;
+        height: 50%;
+        width: 50%;
+        }
+
+        .aftercircle{
+background-color: grey;
+        }
+
+        .raj{
+          background-color: black;
+        }
+
+        .raj{
+          background-color: blue;
+        }
+
+        .raj{
+          background-color: yellow;
+        }
+
+        .raj{
+          background-color: green;
+        }
